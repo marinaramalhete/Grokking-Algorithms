@@ -8,4 +8,4 @@
 
 ***
 
-This repository is dedicated to the codes of the book and they are written in Python 3.8.
+This repository is dedicated to the codes of the book and they are written in Python 3.10.
