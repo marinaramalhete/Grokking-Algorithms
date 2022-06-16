@@ -1,4 +1,4 @@
-## Digit recognition with knn
+### Digit recognition with knn
 
 Here's some example Matlab code that shows KNN in action to guess handwritten digits. Here's what the output looks like:
 
