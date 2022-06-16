@@ -55,6 +55,3 @@ if __name__ == "__main__":
 
     print(bs.search_iterative(my_list, 3))
     print(bs.search_iterative(my_list, -1))
-
-# TODO
-# tests
